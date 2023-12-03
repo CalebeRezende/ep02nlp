@@ -1,5 +1,6 @@
-# ep02nlp
-
+# EP02- 
+Calebe Macena Rezende
+Nº USP: 9366151
 # EP02: Projeto de Regressão e Quantização de Transformadores
 
 ## Visão geral
